@@ -42,8 +42,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=BuddhimaBro&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuddhimaBro&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=Buddhimabro&show_icons=true&theme=transparent&hide_border=true&title_color=C9A227&text_color=ffffff&icon_color=C9A227" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buddhimabro&layout=compact&theme=transparent&hide_border=true&title_color=C9A227&text_color=ffffff" height="165" />
 </p>
 
 ---
@@ -51,7 +51,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=BuddhimaBro&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Buddhimabro&theme=transparent&hide_border=true&ring=C9A227&fire=C9A227&currStreakLabel=C9A227&sideLabels=ffffff&dates=ffffff" />
 </p>
 
 ---
@@ -66,7 +66,7 @@
 
 ## 🧠 Current Focus
 
-- Building Full Stack Applications
+- Building web based Applications
 - Developing AI-powered Smart Systems
 - Working on IoT + Robotics Integration
 - Strengthening Backend Architecture Skills
@@ -81,8 +81,8 @@ To become a highly skilled Full Stack Engineer capable of building scalable, int
 
 ## 📫 Connect With Me
 
-- LinkedIn: (Add your link)
-- Email: (Add your email)
+- LinkedIn: (https://www.linkedin.com/in/buddhimajanitha/)
+- Email: Buddhimaoffcial@gmail.com
 
 ---
 
