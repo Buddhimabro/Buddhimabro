@@ -42,8 +42,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Buddhimabro&show_icons=true&theme=transparent&hide_border=true&title_color=C9A227&text_color=ffffff&icon_color=C9A227" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buddhimabro&layout=compact&theme=transparent&hide_border=true&title_color=C9A227&text_color=ffffff" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=Buddhimabro&theme=dark" />
 </p>
 
 ---
