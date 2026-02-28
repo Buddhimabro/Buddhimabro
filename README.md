@@ -17,6 +17,7 @@
 <img src="https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3" />
 <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript" />
 <img src="https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwindcss" />
+  <img src="https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap" />
 </p>
 
 ### 🖥 Backend
@@ -35,17 +36,9 @@
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
 <img src="https://img.shields.io/badge/Arduino-000?style=for-the-badge&logo=arduino" />
 <img src="https://img.shields.io/badge/ESP32-000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=C9A227" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Buddhimabro&theme=dark" />
-</p>
-
----
 
 ## 🔥 GitHub Streak
 
